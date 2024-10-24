@@ -12,3 +12,4 @@ C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\refint\Pr
 C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.sourcelink.json
