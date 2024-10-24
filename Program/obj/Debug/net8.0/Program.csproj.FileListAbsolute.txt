@@ -1,0 +1,14 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\bin\Debug\net8.0\Program.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\bin\Debug\net8.0\Program.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Program\obj\Debug\net8.0\ref\Program.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaDT8", "AulaDT8\AulaDT8.csproj", "{4AFC361C-BA2B-4B53-BACC-E8598FC3F784}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewConcepts", "ReviewConcepts\ReviewConcepts.csproj", "{D50AEA8F-0633-4CC7-9647-FEA08B43C5EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFC361C-BA2B-4B53-BACC-E8598FC3F784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFC361C-BA2B-4B53-BACC-E8598FC3F784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFC361C-BA2B-4B53-BACC-E8598FC3F784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFC361C-BA2B-4B53-BACC-E8598FC3F784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50AEA8F-0633-4CC7-9647-FEA08B43C5EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50AEA8F-0633-4CC7-9647-FEA08B43C5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50AEA8F-0633-4CC7-9647-FEA08B43C5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50AEA8F-0633-4CC7-9647-FEA08B43C5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A513748-0281-4BE9-B6FA-C360BCFC8961}
+	EndGlobalSection
+EndGlobal
