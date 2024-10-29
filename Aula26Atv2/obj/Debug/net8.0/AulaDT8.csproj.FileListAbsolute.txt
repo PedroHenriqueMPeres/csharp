@@ -1,0 +1,14 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\bin\Debug\net8.0\AulaDT8.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\bin\Debug\net8.0\AulaDT8.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\bin\Debug\net8.0\AulaDT8.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\bin\Debug\net8.0\AulaDT8.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\bin\Debug\net8.0\AulaDT8.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\refint\AulaDT8.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\AulaDT8.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\AulaDT8\obj\Debug\net8.0\ref\AulaDT8.dll

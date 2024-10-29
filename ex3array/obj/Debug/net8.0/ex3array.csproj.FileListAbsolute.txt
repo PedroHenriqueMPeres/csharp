@@ -1,0 +1,15 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\bin\Debug\net8.0\ex3array.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\bin\Debug\net8.0\ex3array.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\bin\Debug\net8.0\ex3array.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\bin\Debug\net8.0\ex3array.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\bin\Debug\net8.0\ex3array.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.sourcelink.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\refint\ex3array.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ex3array.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex3array\obj\Debug\net8.0\ref\ex3array.dll

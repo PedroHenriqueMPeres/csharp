@@ -1,0 +1,14 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\bin\Debug\net8.0\Laços de repetição.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\bin\Debug\net8.0\Laços de repetição.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\bin\Debug\net8.0\Laços de repetição.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\bin\Debug\net8.0\Laços de repetição.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\bin\Debug\net8.0\Laços de repetição.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\refint\Laços de repetição.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\Laços de repetição.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\LDR\obj\Debug\net8.0\ref\Laços de repetição.dll

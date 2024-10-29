@@ -1,0 +1,15 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.sourcelink.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\bin\Debug\net8.0\Desafio2array.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\bin\Debug\net8.0\Desafio2array.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\bin\Debug\net8.0\Desafio2array.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\bin\Debug\net8.0\Desafio2array.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\bin\Debug\net8.0\Desafio2array.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\refint\Desafio2array.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\Desafio2array.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Desafio2array\obj\Debug\net8.0\ref\Desafio2array.dll

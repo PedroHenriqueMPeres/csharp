@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arraysatv02/1.0.0": {
+        "runtime": {
+          "arraysatv02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arraysatv02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

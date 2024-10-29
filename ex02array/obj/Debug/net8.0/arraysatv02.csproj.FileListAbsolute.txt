@@ -1,0 +1,15 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\bin\Debug\net8.0\arraysatv02.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\bin\Debug\net8.0\arraysatv02.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\bin\Debug\net8.0\arraysatv02.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\bin\Debug\net8.0\arraysatv02.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\bin\Debug\net8.0\arraysatv02.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.sourcelink.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\refint\arraysatv02.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\arraysatv02.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\ex02array\obj\Debug\net8.0\ref\arraysatv02.dll
