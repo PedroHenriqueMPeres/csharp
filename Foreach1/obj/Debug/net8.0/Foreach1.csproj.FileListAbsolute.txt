@@ -1,0 +1,15 @@
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.AssemblyInfoInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.AssemblyInfo.cs
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.csproj.CoreCompileInputs.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.sourcelink.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\bin\Debug\net8.0\Foreach1.exe
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\bin\Debug\net8.0\Foreach1.deps.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\bin\Debug\net8.0\Foreach1.runtimeconfig.json
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\bin\Debug\net8.0\Foreach1.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\bin\Debug\net8.0\Foreach1.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\refint\Foreach1.dll
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.pdb
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\Foreach1.genruntimeconfig.cache
+C:\Users\54571279825\Desktop\PhSenai\Back-end\Foreach1\obj\Debug\net8.0\ref\Foreach1.dll

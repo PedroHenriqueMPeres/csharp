@@ -15,9 +15,9 @@ calc.numero1 = float.Parse(Console.ReadLine());
 Console.WriteLine($"Digite outro número:");
 calc.numero2 = float.Parse(Console.ReadLine());
 
-calc.Somar(0f);
+Console.Clear();
 
-// Console.WriteLine($"Soma:{calc.Somar(0f)}");
-// Console.WriteLine($"Subtrair:{calc.Subtrair(0f)}");
-// Console.WriteLine($"Multiplicar:{calc.Multiplicar(0f)}");
-// Console.WriteLine($"Dividir:{calc.Dividir(0f)}");
+calc.Somar(0f);
+calc.Subtrair(0f);
+calc.Multiplicar(0f);
+calc.Dividir(0f);
